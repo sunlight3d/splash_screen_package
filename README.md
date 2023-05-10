@@ -1,0 +1,1 @@
+# splash_screen_package
