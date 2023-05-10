@@ -54,7 +54,7 @@ class _SplashScreenState extends State<SplashScreen> {
               Text(
                 //"This is splash,x = ${this.x}",
                 widget.title ?? '',
-                style: const TextStyle(fontSize: 25, color: Colors.white),
+                style: const TextStyle(fontSize: 25, color: Colors.red),
               ),
             ],
           ),
